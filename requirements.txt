@@ -1,8 +1,9 @@
 streamlit
-yfinance
 pandas
-numpy
+gspread
+google-auth
+yfinance
 feedparser
 altair
-openpyxl
 xlsxwriter
+openpyxl
